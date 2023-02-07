@@ -118,10 +118,76 @@ _For more examples, please refer to the [Documentation](https://github.com/marco
 <!-- ROADMAP -->
 ## Roadmap
 
-* [ ] LPIC Essencials
-* [ ] Feature 2
-* [ ] Feature 3
-  * [ ] Nested Feature
+* [ ] [Languages](certificates/languages)
+  * [ ] [English](certificates/languages/english/)
+    * [ ] [Open English](certificates/languages/english/open_english/)
+      * [x] [Level 1](certificates/languages/english/certificate_level2.pdf)
+      * [x] [Level 2](certificates/languages/english/certificate_level2.pdf)
+      * [x] [Level 3](certificates/languages/english/certificate_level3.pdf)
+      * [x] [Level 4](certificates/languages/english/certificate_level4.pdf)
+      * [x] [Level 5](certificates/languages/english/certificate_level5.pdf)
+      * [ ] [Level 6](certificates/languages/english/)
+      * [ ] [Level 7](certificates/languages/english/)
+      * [ ] [Level 8](certificates/languages/english/)
+    * [x] Italian
+      * [x] [Babbel](certificates/languages/italian/)
+        * [x] [Basic 1](certificates/languages/italian/certificado_italiano_babbel_curso1_n1.pdf)
+
+* [ ] [**LPI - Linux Professional Institute**](certificates/lpi/)
+  * [x] [LPI Essencials](certificates/lpi/LE-1.pdf)
+    * [x] [Courses](certificates/lpi/lpi_essencials/)
+    * [x] [Exam 010: Linux Essentials]
+  * [x] [LPIC1](certificates/lpi/LPIC-1.pdf)
+    * [x] Exam 101-500
+    * [x] Exam 102-500
+  * [ ] [LPIC2](certificates/lpi/)
+    * [x] Exam 201-450
+    * [ ] Exam 201-450
+  * [ ] [LPIC-3](certificates/lpi/)
+    * [ ] Exam Mixed Environments 300-300
+    * [ ] Exam Security 303-300
+    * [ ] Exam Virtualization and Containerization 305-300
+    * [ ] Exam High Availability and Storage Clusters 306-300
+  * [ ] [DevOps Tools Engineer](certificates/lpi/)
+    * [ ] Exam 701-100
+  * [ ] [BSD Specialist](certificates/lpi/)
+    * [ ] Exam 702-100
+
+* [ ] [Devops](certificates/devops/)
+  * [ ] [GNULinux](certificates/devops/linux/)
+  * [ ] [Git](certificates/devops/git/)
+  * [ ] [Jenkins](certificates/devops/jenkins/)
+  * [ ] [Docker](certificates/devops/docker/)
+  * [ ] [Ansible](certificates/devops/ansible/)
+  * [ ] [Vagrant](certificates/devops/vagrant/)
+  * [ ] [Packer](certificates/devops/packer/)
+  * [ ] [Terraform](certificates/devops/terraform/)
+
+* [ ] [Public Cloud](certificates/public_cloud/)
+  * [ ] [AWS](certificates/public_cloud/)
+  * [ ] [Azure](certificates/public_cloud/)
+  * [ ] [GCP](certificates/public_cloud/)
+  * [ ] [OCI](certificates/public_cloud/)
+
+* [ ] [Private Cloud](certificates/private_cloud)
+  * [ ] Vmware
+    * [x] Vsphere [Udemy]
+
+* [ ] Back-End
+  * [ ] Powershell
+  * [ ] Bash
+  * [ ] Python
+  * [ ] Javascript
+  * [ ] Node
+
+* [ ] Front-End
+  * [ ] HTML
+  * [ ] CSS
+  * [ ] Others
+
+* [ ] [Others](certificates/others/)
+  * [x] [Advpl](certificates/others/advpl/)
+
 
 See the [open issues](https://github.com/marcossilvestrini/learning-path/issues) for a full list of proposed features (and known issues).
 
@@ -190,3 +256,4 @@ Project Link: [https://github.com/marcossilvestrini/learning-path](https://githu
 
 [GNULinux-badge]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 [GNULinux-url]: https://www.gnu.org/gnu/linux-and-gnu.en.html
+
