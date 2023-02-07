@@ -177,6 +177,8 @@ _For more examples, please refer to the [Documentation](https://github.com/marco
   * [ ] Powershell
   * [ ] Bash
   * [ ] Python
+    * [x] Courses School of Net(old)
+    * [ ] <https://cursos.alura.com.br/formacao-Python-linguagem>
   * [ ] Javascript
   * [ ] Node
 
