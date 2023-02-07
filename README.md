@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/marcossilvestrini/templates">
+  <a href="https://github.com/marcossilvestrini/portifolio">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -35,14 +35,14 @@
   <p align="center">
     Project for publish template for all tools and languages
     <br />
-    <a href="https://github.com/marcossilvestrini/templates"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/marcossilvestrini/portifolio"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/marcossilvestrini/templates">View Demo</a>
+    <a href="https://github.com/marcossilvestrini/portifolio">View Demo</a>
     -
-    <a href="https://github.com/marcossilvestrini/templates/issues">Report Bug</a>
+    <a href="https://github.com/marcossilvestrini/portifolio/issues">Report Bug</a>
     -
-    <a href="https://github.com/marcossilvestrini/templates/issues">Request Feature</a>
+    <a href="https://github.com/marcossilvestrini/portifolio/issues">Request Feature</a>
   </p>
 </div>
 
@@ -114,7 +114,7 @@ This is an example of how to list things you need to use the software and how to
 2. Clone the repo
 
    ```sh
-   git clone https://github.com/marcossilvestrini/templates.git
+   git clone https://github.com/marcossilvestrini/portifolio.git
    ```
 
 3. Install NPM packages
@@ -148,7 +148,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 * [ ] Feature 3
   * [ ] Nested Feature
 
-See the [open issues](https://github.com/marcossilvestrini/templates/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/marcossilvestrini/portifolio/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,7 +180,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Marcos Silvestrini - [@mrsilvestrini](https://twitter.com/mrsilvestrini) - marcos.silvestrini@gmail.com
 
-Project Link: [https://github.com/marcossilvestrini/templates](https://github.com/marcossilvestrini/templates)
+Project Link: [https://github.com/marcossilvestrini/portifolio](https://github.com/marcossilvestrini/portifolio)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -196,15 +196,15 @@ Project Link: [https://github.com/marcossilvestrini/templates](https://github.co
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/marcossilvestrini/templates.svg?style=for-the-badge
-[contributors-url]: https://github.com/marcossilvestrini/templates/graphs/contributors
+[contributors-url]: https://github.com/marcossilvestrini/portifolio/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/marcossilvestrini/templates.svg?style=for-the-badge
-[forks-url]: https://github.com/marcossilvestrini/templates/network/members
+[forks-url]: https://github.com/marcossilvestrini/portifolio/network/members
 [stars-shield]: https://img.shields.io/github/stars/marcossilvestrini/templates.svg?style=for-the-badge
-[stars-url]: https://github.com/marcossilvestrini/templates/stargazers
+[stars-url]: https://github.com/marcossilvestrini/portifolio/stargazers
 [issues-shield]: https://img.shields.io/github/issues/marcossilvestrini/templates.svg?style=for-the-badge
-[issues-url]: https://github.com/marcossilvestrini/templates/issues
+[issues-url]: https://github.com/marcossilvestrini/portifolio/issues
 [license-shield]: https://img.shields.io/github/license/marcossilvestrini/templates.svg?style=for-the-badge
-[license-url]: https://github.com/marcossilvestrini/templates/blob/master/LICENSE
+[license-url]: https://github.com/marcossilvestrini/portifolio/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/marcossilvestrini
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
