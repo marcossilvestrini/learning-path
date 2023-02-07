@@ -12,10 +12,12 @@
             "h3",
             "h1",
             "strong",
-            "/strong"
+            "/strong",
+            "div",
+            "img"
         ]
     },
     "MD013": {
-        "line_length": 100
+        "line_length": 1000
     }
 }
