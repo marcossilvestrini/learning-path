@@ -135,7 +135,7 @@ _For more examples, please refer to the [Documentation](https://github.com/marco
 
 * [ ] [**LPI - Linux Professional Institute**](certificates/lpi/)
   * [x] [LPI Essencials](certificates/lpi/LE-1.pdf)
-    * [x] [Courses](certificates/lpi/lpi_essencials/)
+    * [x] [Courses Udemy](certificates/lpi/udemy/lpi_essencials/)
     * [x] [Exam 010: Linux Essentials]
   * [x] [LPIC1](certificates/lpi/LPIC-1.pdf)
     * [x] Exam 101-500
@@ -154,11 +154,14 @@ _For more examples, please refer to the [Documentation](https://github.com/marco
     * [ ] Exam 702-100
 
 * [ ] [Devops](certificates/devops/)
-  * [ ] [GNULinux](certificates/devops/linux/)
   * [ ] [Git](certificates/devops/git/)
+    * [x] [Courses School of Net](certificates/devops/git/school_of_net/)
   * [ ] [Jenkins](certificates/devops/jenkins/)
+    * [x] [Courses School of Net](certificates/devops/jenkins/school_of_net/)
   * [ ] [Docker](certificates/devops/docker/)
+    * [x] [Courses School of Net](certificates/devops/docker/school_of_net/)
   * [ ] [Ansible](certificates/devops/ansible/)
+    * [x] [Courses School of Net](certificates/devops/ansible/school_of_net/)
   * [ ] [Vagrant](certificates/devops/vagrant/)
   * [ ] [Packer](certificates/devops/packer/)
   * [ ] [Terraform](certificates/devops/terraform/)
@@ -171,25 +174,35 @@ _For more examples, please refer to the [Documentation](https://github.com/marco
 
 * [ ] [Private Cloud](certificates/private_cloud)
   * [ ] Vmware
-    * [x] Vsphere [Udemy]
+    * [x] [Courses Udemy](certificates/private_cloud/vmware/udemy/)
+      * [x] [Vsphere](certificates/private_cloud/vmware/udemy/)
 
 * [ ] Back-End
-  * [ ] Powershell
-  * [ ] Bash
+  * [x] Powershell
+    * [x] [See projects in my github](https://github.com/marcossilvestrini)
+  * [x] Bash
+    * [x] [See lpi certificates](certificates/lpi/)
+    * [x] [Courses School of Net](certificates/backend/bash/school_of_net/)
   * [ ] Python
-    * [x] Courses School of Net(old)
-    * [ ] <https://cursos.alura.com.br/formacao-Python-linguagem>
+    * [x] [Courses School of Net)](certificates/backend/Python/old/)
+    * [ ] [Courses Alura](https://cursos.alura.com.br/formacao-Python-linguagem)
   * [ ] Javascript
-  * [ ] Node
+    * [x] [Courses School of Net](certificates/backend/javascript/school_of_net/)
+    * [ ] [Courses Alura](https://cursos.alura.com.br/formacao-js-backend)
+  * [ ] [Node](certificates/backend/Node/)
+    * [x] [Courses School of Net](certificates/backend/node/school_of_net/)
 
-* [ ] Front-End
-  * [ ] HTML
-  * [ ] CSS
-  * [ ] Others
+* [ ] [Front-End](certificates/frontend)
+  * [ ] [HTML](certificates/frontend/html/)
+    * [x] [Courses School of Net](certificates/frontend/html/school_of_net/)
+  * [ ] [CSS](certificates/frontend/css/)
+    * [x] [Courses School of Net](certificates/frontend/css/school_of_net/)
+  * [ ] [Others](certificates/frontend/others/)
+    * [x] [Courses School of Net](certificates/frontend/others/school_of_net/)
 
 * [ ] [Others](certificates/others/)
-  * [x] [Advpl](certificates/others/advpl/)
-
+  * [x] [Courses Udemy)](certificates/others/udemy/)
+    * [x] [Advpl](certificates/others/udemy/advpl/)
 
 See the [open issues](https://github.com/marcossilvestrini/learning-path/issues) for a full list of proposed features (and known issues).
 
