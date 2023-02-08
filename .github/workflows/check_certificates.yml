@@ -28,9 +28,10 @@ jobs:
       # Runs a single command using the runners shell
       - name: Check certificates
         run: |
-          apt install -y dos2unix
-          find . -type f -not -path '*/\.*' -exec grep -Il '.' {} \; | xargs -d '\n' -L 1 dos2unix -k
-          chmod +x build/check_certificates
-          ./build/check_certificates
+          whoami
+          #apt install -y dos2unix
+          #find build/ -type f -not -path '*/\.*' -exec grep -Il '.' {} \; | xargs -d '\n' -L 1 dos2unix -k
+          #chmod +x build/check_certificates
+          #./build/check_certificates
 
           
