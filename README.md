@@ -246,8 +246,7 @@ Project Link: [https://github.com/marcossilvestrini/learning-path](https://githu
 * [Github Template by othneildrew](https://github.com/othneildrew/Best-README-Template)
 * [Git gitignore Templates](https://github.com/github/gitignore)
 * [Git Badges](https://github.com/Ileriayo/markdown-badges#usage)
-
-
+* [Github Workflows](https://docs.github.com/en/actions/using-workflows/about-workflows)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -265,10 +264,7 @@ Project Link: [https://github.com/marcossilvestrini/learning-path](https://githu
 [license-url]: https://github.com/marcossilvestrini/learning-path/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/marcossilvestrini
-
 [Github-badge]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 [Github-url]: https://github.com/
-
 [GNULinux-badge]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 [GNULinux-url]: https://www.gnu.org/gnu/linux-and-gnu.en.html
-
