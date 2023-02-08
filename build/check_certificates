@@ -14,20 +14,10 @@ LANG=C
 set -e
 
 # Begin functions
-
-follow_link() {
-    FILE="$1"
-    while [ -h "$FILE" ]; do
-        # On Mac OS, readlink -f doesn't work.
-        FILE="$(readlink "$FILE")"
-    done
-    echo "$FILE"
-}
-
 function check-certificates() {
-    DIR_CERTIFICATES=$(realpath "$(dirname "$(follow_link "$0")")")
     echo "Check certificates..."
-    ls -ltR "$DIR_CERTIFICATES/certificates"
+    echo "$SCRIPT_PATH"
+    ls -ltR "$SCRIPT_PATH/certificates"
 }
 
 #End functions

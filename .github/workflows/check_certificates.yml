@@ -27,10 +27,12 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Check certificates
+        id: check_certificates
         run: |
+          export SCRIPT_PATH=$(pwd)
           sudo apt install -y dos2unix
           sudo find build/ -type f -not -path '*/\.*' -exec grep -Il '.' {} \; | xargs -d '\n' -L 1 dos2unix -k
           sudo chmod +x build/check_certificates
           ./build/check_certificates
 
-          
+
