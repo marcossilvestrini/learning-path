@@ -32,6 +32,6 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Check certificates paths...
         run: |
-          echo Check certificates paths,
+          echo Check certificates paths
           ls build
           
