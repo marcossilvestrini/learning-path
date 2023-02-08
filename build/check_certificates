@@ -19,7 +19,7 @@ function check-certificates() {
     #https://linuxize.com/post/bash-check-if-file-exists/
     while IFS= read -r line; do
         FILE="$SCRIPT_PATH/$line"
-        [[ -f "$FILE" ]] && echo "$FILE exist." || echo "$FILE does not exist."
+        [[ -e "$FILE" ]] && echo "$FILE exist." || echo "$FILE does not exist."
         # FILE=$line
         # [ "$FILE" == "" ] && {
         #     echo "Usage: $0 filename"
