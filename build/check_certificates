@@ -34,7 +34,7 @@ function check-certificates() {
 }
 
 #End functions
-
+pwd
 check-certificates
 
 #Begin execution
