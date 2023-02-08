@@ -16,8 +16,20 @@ set -e
 # Begin functions
 function check-certificates() {
     echo "Check certificates..."
-    echo "$SCRIPT_PATH"
-    ls -ltR "$SCRIPT_PATH/certificates"
+    while IFS= read -r line; do
+        FILE=$line
+        [ "$FILE" == "" ] && {
+            echo "Usage: $0 filename"
+            exit 1
+        }
+        if [ -e "$FILE" ]; then
+            echo "File $FILE exist."
+        else
+            echo "File $FILE does not exist" >&2
+        fi
+    done <"$SCRIPT_PATH/build/certificates"
+    # echo "$SCRIPT_PATH"
+    # ls -ltR "$SCRIPT_PATH/certificates"
 }
 
 #End functions

@@ -1,0 +1,12 @@
+cat build/certificates | while read line; do
+   FILE=$line
+   [ "$FILE" == "" ] && {
+      echo "Usage: $0 filename"
+      exit 1
+   }
+   if [ -e "$FILE" ]; then
+      echo "File $FILE exist."
+   else
+      echo "File $FILE does not exist" >&2
+   fi
+done
