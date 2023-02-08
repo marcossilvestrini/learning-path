@@ -18,7 +18,7 @@ function check-certificates() {
     echo "Check certificates..."
     while IFS= read -r line; do
         FILE=$line
-        ls $FILE
+        echo $FILE
         # [ "$FILE" == "" ] && {
         #     echo "Usage: $0 filename"
         #     exit 1
