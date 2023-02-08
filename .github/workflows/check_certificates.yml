@@ -33,6 +33,5 @@ jobs:
       - name: Check certificates paths...
         run: |
           echo Check certificates paths,
-          cd build,
           ls
           
