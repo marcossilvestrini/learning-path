@@ -18,6 +18,8 @@ function check-certificates() {
     echo "Check certificates..."
     #https://linuxize.com/post/bash-check-if-file-exists/
     while IFS= read -r line; do
+        pwd
+        FILE=$line
         [[ -f "$FILE" ]] && echo "$FILE exist." || echo "$FILE does not exist."
         # FILE=$line
         # [ "$FILE" == "" ] && {
@@ -29,7 +31,7 @@ function check-certificates() {
         # else
         #     echo "File $FILE does not exist" >&2
         # fi
-    done <"$SCRIPT_PATH/build/certificates.txt"
+    done <"$SCRIPT_PATH/build/certificates"
 }
 
 #End functions
