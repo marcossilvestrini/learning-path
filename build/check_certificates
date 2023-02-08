@@ -27,7 +27,7 @@ follow_link() {
 function check-certificates() {
     DIR_CERTIFICATES=$(realpath "$(dirname "$(follow_link "$0")")")
     echo "Check certificates..."
-    ls
+    ls -ltR "$DIR_CERTIFICATES/certificates"
 }
 
 #End functions
