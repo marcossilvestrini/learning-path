@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+
+<<'BUILD-DETAILS'
+    Author: Marcos Silvestrini
+    Date: 08/02/2023
+    Description: Script for building my github learning path
+    Dependencies: none
+BUILD-DETAILS
+
+# Set localizations for prevent bugs in operations
+LANG=C
+
+# Exit immediately if a command exits with a non-zero status.
+set -e
+
+# Begin functions
+
+follow_link() {
+    FILE="$1"
+    while [ -h "$FILE" ]; do
+        # On Mac OS, readlink -f doesn't work.
+        FILE="$(readlink "$FILE")"
+    done
+    echo "$FILE"
+}
+
+function check-certificates() {
+    DIR_CERTIFICATES=$(realpath "$(dirname "$(follow_link "$0")")")
+    echo "Check certificates..."
+    ls
+}
+
+#End functions
+
+check-certificates
+
+#Begin execution
+
+#End execution
