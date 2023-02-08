@@ -27,6 +27,8 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Check certificates
-        run: ls build/
+        run: |
+          chmod +x build/check_certificates
+          ls -lt build/check_certificates
 
           
