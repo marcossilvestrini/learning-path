@@ -6,7 +6,7 @@
       "type": "shell",
       "command": "",
       "windows": {
-        "command": "./build/generate_list_certificates.ps1 >./build/certificates"
+        "command": "./build/generate_list_certificates.ps1"
       },
       "presentation": {
         "reveal": "always",
