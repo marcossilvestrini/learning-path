@@ -11,4 +11,4 @@ Where-object { $_.Name -notlike ".gitkeep" -and !$_.PSISContainer }
 $LIST_FILES | Rename-Item -NewName { $_.Name -replace ' ', '_' }
 $FILES = $LIST_FILES -replace ("F:\\Projetos\\learning-path\\", "")
 $FILES = $FILES -replace ("\\", "/")
-$FILES > "$ROOT_PATH\build\certificates"
+$FILES | Out-File -Encoding utf8 -Force -FilePath "$ROOT_PATH\build\certificates.txt"
