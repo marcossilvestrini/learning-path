@@ -165,6 +165,12 @@ _For more examples, please refer to the [Documentation](https://github.com/marco
   * [ ] [Vagrant](certificates/devops/vagrant/)
   * [ ] [Packer](certificates/devops/packer/)
   * [ ] [Terraform](certificates/devops/terraform/)
+  * [ ] [Alura Training](certificates/devops/alura_training/)
+    * [ ] [Learn virtualization and provisioning](certificates/devops/alura_training/)
+      * [ ] [Infrastructure as Code: Preparing Machines on AWS with Ansible and Terraform](certificates/devops/)
+    * [ ] [Master containerization](certificates/devops/alura_training/)
+    * [ ] [Learn about continuous integration and delivery](certificates/devops/alura_training/)
+    * [ ] [Monitoring](certificates/devops/alura_training/)
 
 * [ ] [Public Cloud](certificates/public_cloud/)
   * [ ] [AWS](certificates/public_cloud/)
