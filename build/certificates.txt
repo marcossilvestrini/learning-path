@@ -17,6 +17,8 @@ certificates/devops/docker/school_of_net/certificate-iniciando-com-docker-rev2.j
 certificates/devops/docker/school_of_net/certificate-iniciando-com-docker.jpg
 certificates/devops/git/school_of_net/certificate-git-e-github.jpg
 certificates/devops/git/school_of_net/certificate-git-flow-na-pratica.jpg
+certificates/devops/git/Git_e_Github_controle_e_compartilhe_seu_código.pdf
+certificates/devops/git/Git_e_Github_estratégias_de_ramificação,_Conflitos_e_Pull_Requests.pdf
 certificates/devops/jenkins/school_of_net/certificate-iniciando-com-jenkins-rev2.jpg
 certificates/devops/others/school_of_net/certificate-multimedia.jpg
 certificates/devops/others/school_of_net/certificate-regex-basico.jpg

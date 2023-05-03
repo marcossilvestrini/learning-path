@@ -140,9 +140,9 @@ _For more examples, please refer to the [Documentation](https://github.com/marco
   * [x] [LPIC1](certificates/lpi/LPIC-1.pdf)
     * [x] Exam 101-500
     * [x] Exam 102-500
-  * [ ] [LPIC2](certificates/lpi/)
+  * [x] [LPIC2](certificates/lpi/)
     * [x] Exam 201-450
-    * [ ] Exam 201-450
+    * [x] Exam 201-450
   * [ ] [LPIC-3](certificates/lpi/)
     * [ ] Exam Mixed Environments 300-300
     * [ ] Exam Security 303-300
@@ -155,6 +155,7 @@ _For more examples, please refer to the [Documentation](https://github.com/marco
 
 * [ ] [Devops](certificates/devops/)
   * [ ] [Git](certificates/devops/git/)
+    * [x] [Alura Training](certificates/devops/git)
     * [x] [Courses School of Net](certificates/devops/git/school_of_net/)
   * [ ] [Jenkins](certificates/devops/jenkins/)
     * [x] [Courses School of Net](certificates/devops/jenkins/school_of_net/)
@@ -175,6 +176,9 @@ _For more examples, please refer to the [Documentation](https://github.com/marco
 * [ ] [Public Cloud](certificates/public_cloud/)
   * [ ] [AWS](certificates/public_cloud/)
   * [ ] [Azure](certificates/public_cloud/)
+    * [ ] Certification Az-900
+      * [ ] Alura Trainning
+      * [ ] Itexam Simulated
   * [ ] [GCP](certificates/public_cloud/)
   * [ ] [OCI](certificates/public_cloud/)
 
@@ -254,6 +258,7 @@ Project Link: [https://github.com/marcossilvestrini/learning-path](https://githu
 * [Git gitignore Templates](https://github.com/github/gitignore)
 * [Git Badges](https://github.com/Ileriayo/markdown-badges#usage)
 * [Github Workflows](https://docs.github.com/en/actions/using-workflows/about-workflows)
+* [Plantumml Icons](https://github.com/tupadr3/plantuml-icon-font-sprites/blob/master/README.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
