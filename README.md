@@ -177,8 +177,8 @@ _For more examples, please refer to the [Documentation](https://github.com/marco
   * [ ] [AWS](certificates/public_cloud/)
   * [ ] [Azure](certificates/public_cloud/)
     * [ ] Certification Az-900
-      * [ ] Alura Trainning
-      * [ ] Itexam Simulated
+      * [x] Alura Trainning
+      * [x] Itexam Simulated
   * [ ] [GCP](certificates/public_cloud/)
   * [ ] [OCI](certificates/public_cloud/)
 
