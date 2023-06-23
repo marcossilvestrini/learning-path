@@ -159,8 +159,8 @@ _For more examples, please refer to the [Documentation](https://github.com/marco
     * [x] [Courses School of Net](certificates/devops/git/school_of_net/)
   * [ ] [Jenkins](certificates/devops/jenkins/)
     * [x] [Courses School of Net](certificates/devops/jenkins/school_of_net/)
-  * [ ] [Docker](certificates/devops/docker/)
-    * [x] [Courses School of Net](certificates/devops/docker/school_of_net/)
+  * [ ] [Docker](certificates/devops/docker/)    
+    * [x] [Courses School of Net](certificates/devops/docker/school_of_net/)    
   * [ ] [Ansible](certificates/devops/ansible/)
     * [x] [Courses School of Net](certificates/devops/ansible/school_of_net/)
   * [ ] [Vagrant](certificates/devops/vagrant/)
@@ -176,7 +176,7 @@ _For more examples, please refer to the [Documentation](https://github.com/marco
 * [ ] [Public Cloud](certificates/public_cloud/)
   * [ ] [AWS](certificates/public_cloud/)
   * [ ] [Azure](certificates/public_cloud/)
-    * [ ] Certification Az-900
+    * [x] Certification Az-900
       * [x] Alura Trainning
       * [x] Itexam Simulated
   * [ ] [GCP](certificates/public_cloud/)
